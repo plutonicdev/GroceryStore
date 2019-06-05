@@ -4,6 +4,10 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class LocalStorage {
 
 

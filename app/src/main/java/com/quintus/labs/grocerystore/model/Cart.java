@@ -1,5 +1,9 @@
 package com.quintus.labs.grocerystore.model;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class Cart {
     String id;
     String image;

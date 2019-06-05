@@ -16,6 +16,10 @@ import android.widget.TextView;
 import com.quintus.labs.grocerystore.R;
 import com.quintus.labs.grocerystore.fragment.AddressFragment;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class CheckoutActivity extends BaseActivity {
 
     @Override

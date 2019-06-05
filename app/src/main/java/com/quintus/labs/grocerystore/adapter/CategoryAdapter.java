@@ -21,6 +21,10 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.MyViewHolder> {
 
     List<Category> categoryList;

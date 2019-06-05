@@ -7,6 +7,10 @@ import com.quintus.labs.grocerystore.model.Product;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class Data {
     List<Category> categoryList = new ArrayList<>();
     List<Product> productList = new ArrayList<>();

@@ -14,7 +14,10 @@ import android.view.ViewGroup;
 import com.quintus.labs.grocerystore.R;
 import com.quintus.labs.grocerystore.adapter.NewProductAdapter;
 import com.quintus.labs.grocerystore.helper.Data;
-
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 /**
  * A simple {@link Fragment} subclass.
  */

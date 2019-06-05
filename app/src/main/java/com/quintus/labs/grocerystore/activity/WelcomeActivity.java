@@ -19,6 +19,10 @@ import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class WelcomeActivity extends AppCompatActivity {
 
     ViewPager viewPager;

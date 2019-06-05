@@ -21,6 +21,10 @@ import com.quintus.labs.grocerystore.util.Utils;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class ForgotPassword_Fragment extends Fragment implements
         OnClickListener {
     private static View view;

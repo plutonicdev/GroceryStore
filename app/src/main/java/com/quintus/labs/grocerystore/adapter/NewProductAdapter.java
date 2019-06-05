@@ -29,6 +29,10 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class NewProductAdapter extends RecyclerView.Adapter<NewProductAdapter.MyViewHolder> {
 
     List<Product> productList;

@@ -6,6 +6,10 @@ import android.view.animation.AnimationUtils;
 
 import com.quintus.labs.grocerystore.R;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class SlideAnimationUtil {
 
     /**

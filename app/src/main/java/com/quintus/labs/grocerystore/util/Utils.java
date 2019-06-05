@@ -1,5 +1,9 @@
 package com.quintus.labs.grocerystore.util;
 
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 public class Utils {
 
     //Email Validation pattern

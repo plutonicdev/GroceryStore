@@ -20,7 +20,10 @@ import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Created by Quintus Labs on 18-Feb-2019.
+ * www.quintuslabs.com
+ */
 /**
  * A simple {@link Fragment} subclass.
  */
