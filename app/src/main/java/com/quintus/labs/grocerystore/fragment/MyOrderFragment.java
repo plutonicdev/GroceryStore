@@ -21,8 +21,10 @@ import com.quintus.labs.grocerystore.util.localstorage.LocalStorage;
 import java.util.ArrayList;
 import java.util.List;
 /**
- * Created by Quintus Labs on 18-Feb-2019.
- * www.quintuslabs.com
+ * Grocery App
+ * https://github.com/quintuslabs/GroceryStore
+ * Created on 18-Feb-2019.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
  */
 /**
  * A simple {@link Fragment} subclass.

@@ -25,8 +25,10 @@ import com.quintus.labs.grocerystore.helper.Converter;
 import com.quintus.labs.grocerystore.helper.Data;
 
 /**
- * Created by Quintus Labs on 18-Feb-2019.
- * www.quintuslabs.com
+ * Grocery App
+ * https://github.com/quintuslabs/GroceryStore
+ * Created on 18-Feb-2019.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
  */
 public class ProductActivity extends BaseActivity {
     private static int cart_count = 0;

@@ -13,8 +13,10 @@ import com.quintus.labs.grocerystore.fragment.Login_Fragment;
 import com.quintus.labs.grocerystore.util.Utils;
 
 /**
- * Created by Quintus Labs on 18-Feb-2019.
- * www.quintuslabs.com
+ * Grocery App
+ * https://github.com/quintuslabs/GroceryStore
+ * Created on 18-Feb-2019.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
  */
 public class LoginRegisterActivity extends AppCompatActivity {
     private static FragmentManager fragmentManager;

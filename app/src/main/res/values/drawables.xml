@@ -1,4 +1,10 @@
 <resources>
+    <!--
+   * Grocery App
+   * https://github.com/quintuslabs/GroceryStore
+   * Created on 18-Feb-2019.
+   * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+   -->
     <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
     <item name="ic_menu_gallery" type="drawable">@android:drawable/ic_menu_gallery</item>
     <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>

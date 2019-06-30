@@ -4,7 +4,12 @@ import android.content.Context;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.widget.EditText;
-
+/**
+ * Grocery App
+ * https://github.com/quintuslabs/GroceryStore
+ * Created on 18-Feb-2019.
+ * Created by : Santosh Kumar Dash:- http://santoshdash.epizy.com
+ */
 public class MyEditText extends EditText {
 
     public MyEditText(Context context, AttributeSet attrs, int defStyle) {
