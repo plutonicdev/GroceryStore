@@ -12,6 +12,7 @@ Grocery store template is created as a wonderful solution for any agricultural o
 
 
 
+
 ## Screen (Content)
 ```
 The screen contains more than 60 icons and most of all required elements required to design an application like this.I News UI  KIT in 20+ screen available in this kit.
@@ -22,6 +23,7 @@ The screen contains more than 60 icons and most of all required elements require
 
 **Description**
 
+-Grocery App Template
 - Grocery App UI is supported in all Devices.
 - Change text, colours an graphics, add or place photos.
 - Customize every elements as much, or as little as you want.
@@ -31,6 +33,8 @@ The screen contains more than 60 icons and most of all required elements require
 - Very clean and cool UI
 - Free updates
 - license
+-Api Integration not included
+-For Api integration Please Contact us:- contact@quintuslabs.com
 
 ## Screen 
 
