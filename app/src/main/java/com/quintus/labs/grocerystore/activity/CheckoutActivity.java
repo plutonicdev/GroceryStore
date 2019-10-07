@@ -6,12 +6,13 @@ import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.support.v4.app.FragmentTransaction;
-import android.support.v7.app.ActionBar;
 import android.view.Gravity;
 import android.view.MenuItem;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+
+import androidx.appcompat.app.ActionBar;
+import androidx.fragment.app.FragmentTransaction;
 
 import com.quintus.labs.grocerystore.R;
 import com.quintus.labs.grocerystore.fragment.AddressFragment;

@@ -17,7 +17,7 @@
         android:orientation="vertical"
         android:padding="20dp">
 
-        <android.support.v7.widget.CardView
+        <androidx.cardview.widget.CardView
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_gravity="center_horizontal"
@@ -29,7 +29,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="@dimen/margin_15dp"
                 android:src="@drawable/logo" />
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
 
         <com.quintus.labs.grocerystore.customfonts.MyTextViewOleoScriptBold
@@ -44,7 +44,7 @@
             android:textSize="35sp"
             android:textStyle="bold" />
 
-        <android.support.design.widget.TextInputLayout
+        <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
@@ -63,14 +63,14 @@
                 android:textColor="@color/black"
                 android:textColorHint="@color/yellow"
                 android:textSize="16sp" />
-        </android.support.design.widget.TextInputLayout>
+        </com.google.android.material.textfield.TextInputLayout>
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="2px"
             android:background="@color/colorPrimaryDark" />
 
-        <android.support.design.widget.TextInputLayout
+        <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="7dp"
@@ -90,7 +90,7 @@
                 android:textColor="@color/black"
                 android:textColorHint="@color/yellow"
                 android:textSize="16sp" />
-        </android.support.design.widget.TextInputLayout>
+        </com.google.android.material.textfield.TextInputLayout>
 
         <View
             android:layout_width="match_parent"
